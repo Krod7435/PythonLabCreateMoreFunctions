@@ -1,6 +1,7 @@
 # PythonLabCreateMoreFunctions
 
-Introduction
+Introduction:
+
 Built-in functions are functions that exist within Python and can be called directly. They help
 analysts efficiently complete tasks. Python also supports user-defined functions. These are functions
 that analysts write for their specific needs.
@@ -11,7 +12,8 @@ In this lab, you’ll use built-in functions to work with a list of failed login
 prepare it for further analysis, and you’ll define a function that compares the user’s login attempts
 for the current day to their average number of login attempts.
 
-Scenario
+Scenario:
+
 In your work as a security analyst, you’re responsible for working with a list that contains the
 number of failed attempts that occurred each month. You’ll identify any patterns that might
 indicate malicious activity. You’re also responsible for defining a function that compares the logins
